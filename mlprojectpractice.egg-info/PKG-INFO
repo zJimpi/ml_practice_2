@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mlprojectpractice
+Version: 0.0.1
+Author: jimpi
+Author-email: eg6@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
+Requires-Dist: typing
+Requires-Dist: scikit-learn
+Requires-Dist: pickles
